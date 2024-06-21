@@ -55,6 +55,7 @@ $api->addMoney($player, $amount, $currency);
 EconomyS, the massive economy plugin with many features for PocketMine-MP
 Copyright (C) 2013-2021  onebone <me@onebone.me>
 
+Updated by skyss0fly 2024 - 2024
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
