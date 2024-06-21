@@ -1,8 +1,8 @@
 name: EconomyAPI
 main: onebone\economyapi\EconomyAPI
-version: "3.0.0-SNAPSHOT"
+version: "4.0.0"
 author: onebone
-api: "4.0.0"
+api: "5.0.0"
 
 permissions:
   economyapi:
