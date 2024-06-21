@@ -27,7 +27,7 @@ use onebone\economyland\provider\YamlProvider;
 use pocketmine\plugin\PluginBase;
 
 final class EconomyLand extends PluginBase {
-	public const API_VERSION = 2;
+	public const API_VERSION = 3;
 
 	const FALLBACK_LANGUAGE = 'en';
 
