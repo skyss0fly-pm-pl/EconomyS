@@ -68,8 +68,8 @@ use pocketmine\utils\TextFormat;
 use Throwable;
 
 class EconomyAPI extends PluginBase implements Listener {
-	const API_VERSION = 4;
-	const PACKAGE_VERSION = "6.0";
+	const API_VERSION = 5;
+	const PACKAGE_VERSION = "7.0";
 
 	/**
 	 * @since 4
